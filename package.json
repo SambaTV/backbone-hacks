@@ -1,0 +1,19 @@
+{
+  "name": "backbone-hacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SambaTV/backbone-hacks.git"
+  },
+  "author": "",
+  "license": "NOLICENSE",
+  "bugs": {
+    "url": "https://github.com/SambaTV/backbone-hacks/issues"
+  },
+  "homepage": "https://github.com/SambaTV/backbone-hacks#readme"
+}
